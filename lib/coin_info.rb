@@ -4,4 +4,4 @@ class CoinInfo
 
 end
 
-Find.find(File.expand_path('coin_infos', __dir__)).each { |file| require_dependency file unless File.directory?(file) }
+require 'coin_infos/satoshi'
