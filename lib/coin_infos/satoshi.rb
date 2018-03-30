@@ -1,4 +1,4 @@
-class CoinInfos::Satoshi < CoinInfo
+class CoinInfos::Satoshi
   
   class << self
     

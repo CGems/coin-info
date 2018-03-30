@@ -1,4 +1,4 @@
-class CoinInfos::Makerdao < CoinInfo
+class CoinInfos::Makerdao
   
   class << self
     

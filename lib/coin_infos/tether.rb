@@ -1,4 +1,4 @@
-class CoinInfos::Tether < CoinInfo
+class CoinInfos::Tether
   
   class << self
     

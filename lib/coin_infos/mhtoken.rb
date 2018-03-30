@@ -1,4 +1,4 @@
-class CoinInfos::Mhtoken < CoinInfo
+class CoinInfos::Mhtoken
   
   class << self
     

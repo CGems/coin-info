@@ -1,4 +1,4 @@
-class CoinInfos::Sixdomainasset < CoinInfo
+class CoinInfos::Sixdomainasset
   
   class << self
     

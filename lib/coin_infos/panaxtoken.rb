@@ -1,4 +1,4 @@
-class CoinInfos::Panaxtoken < CoinInfo
+class CoinInfos::Panaxtoken
   
   class << self
     

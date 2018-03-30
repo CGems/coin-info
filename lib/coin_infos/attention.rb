@@ -1,4 +1,4 @@
-class CoinInfos::Attention < CoinInfo
+class CoinInfos::Attention
   
   class << self
     

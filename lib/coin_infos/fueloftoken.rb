@@ -1,4 +1,4 @@
-class CoinInfos::Fueloftoken < CoinInfo
+class CoinInfos::Fueloftoken
   
   class << self
     

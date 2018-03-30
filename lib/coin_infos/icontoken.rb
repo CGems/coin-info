@@ -1,4 +1,4 @@
-class CoinInfos::Icontoken < CoinInfo
+class CoinInfos::Icontoken
   
   class << self
     

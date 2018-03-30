@@ -1,4 +1,4 @@
-class CoinInfos::Maggietoken < CoinInfo
+class CoinInfos::Maggietoken
   
   class << self
     

@@ -1,4 +1,4 @@
-class CoinInfos::Followcoin < CoinInfo
+class CoinInfos::Followcoin
   
   class << self
     

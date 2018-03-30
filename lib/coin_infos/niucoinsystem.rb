@@ -1,4 +1,4 @@
-class CoinInfos::Niucoinsystem < CoinInfo
+class CoinInfos::Niucoinsystem
   
   class << self
     

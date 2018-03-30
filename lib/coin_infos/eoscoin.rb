@@ -1,4 +1,4 @@
-class CoinInfos::Eoscoin < CoinInfo
+class CoinInfos::Eoscoin
   
   class << self
     

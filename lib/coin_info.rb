@@ -1,4 +1,4 @@
-module CoinInfo
+module CoinInfos
 
 class CoinInfo
 

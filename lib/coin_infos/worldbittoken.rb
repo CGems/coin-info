@@ -1,4 +1,4 @@
-class CoinInfos::Worldbittoken < CoinInfo
+class CoinInfos::Worldbittoken
   
   class << self
     

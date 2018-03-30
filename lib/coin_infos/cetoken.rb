@@ -1,4 +1,4 @@
-class CoinInfos::Cetoken < CoinInfo
+class CoinInfos::Cetoken
   
   class << self
     

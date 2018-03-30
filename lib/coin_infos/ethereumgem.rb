@@ -1,4 +1,4 @@
-class CoinInfos::Ethereumgem < CoinInfo
+class CoinInfos::Ethereumgem
   
   class << self
     

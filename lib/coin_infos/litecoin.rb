@@ -1,4 +1,4 @@
-class CoinInfos::Litecoin < CoinInfo
+class CoinInfos::Litecoin
   
   class << self
     

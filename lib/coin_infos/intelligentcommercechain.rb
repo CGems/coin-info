@@ -1,4 +1,4 @@
-class CoinInfos::Intelligentcommercechain < CoinInfo
+class CoinInfos::Intelligentcommercechain
   
   class << self
     

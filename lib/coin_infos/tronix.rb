@@ -1,4 +1,4 @@
-class CoinInfos::Tronix < CoinInfo
+class CoinInfos::Tronix
   
   class << self
     

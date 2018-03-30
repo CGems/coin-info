@@ -1,4 +1,4 @@
-class CoinInfos::Dogecoin < CoinInfo
+class CoinInfos::Dogecoin
   
   class << self
     
