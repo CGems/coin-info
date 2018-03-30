@@ -1,11 +1,24 @@
-module CoinInfos
+module CoinInfos; end
 
-class CoinInfo
-
-  def method_missing; ''; end
-
-end
-
-end
-
+require 'coin_infos/attention'
+require 'coin_infos/cetoken'
+require 'coin_infos/dogecoin'
+require 'coin_infos/eoscoin'
+require 'coin_infos/ethereum'
+require 'coin_infos/ethereumgem'
+require 'coin_infos/followcoin'
+require 'coin_infos/fueloftoken'
+require 'coin_infos/icontoken'
+require 'coin_infos/intelligentcommercechain'
+require 'coin_infos/litecoin'
+require 'coin_infos/maggietoken'
+require 'coin_infos/makerdao'
+require 'coin_infos/mhtoken'
+require 'coin_infos/niucoinsystem'
+require 'coin_infos/panaxtoken'
 require 'coin_infos/satoshi'
+require 'coin_infos/sixdomainasset'
+require 'coin_infos/status'
+require 'coin_infos/tether'
+require 'coin_infos/tronix'
+require 'coin_infos/worldbittoken'
