@@ -5,7 +5,7 @@ require "version"
 
 Gem::Specification.new do |spec|
   spec.name          = "coin_info"
-  spec.version       = TokenAdapter::VERSION
+  spec.version       = CoinInfo::VERSION
   spec.authors       = ["Leon"]
   spec.email         = ["leon.zcf@gmail.com"]
 
