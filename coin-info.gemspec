@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "An adapter of different tokens for exchange"
   spec.description   = "An adapter of different tokens for exchange"
-  spec.homepage      = "https://github.com/wuminzhe"
+  spec.homepage      = "https://coding.net/u/oldfritter/p/coin-info"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
