@@ -11,7 +11,7 @@ class CoinInfos::Maximinecoin
     end
 
     def website
-      ''
+      'https://maximine.io'
     end
 
     def coinmarketcap_url
